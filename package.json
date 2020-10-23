@@ -7,7 +7,7 @@
     "build": "npx rollup -c",
     "build-client-dev": "npx rollup -c -w",
     "start": "npx rollup -c && node server.js"
-  },
+  },  
   "author": "Kwindla Hultman Kramer",
   "license": "ISC",
   "dependencies": {
